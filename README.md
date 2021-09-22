@@ -1,1 +1,1 @@
-# -https://alex-vikhrov.github.io/-/Summary-ru.html
+# -https://alex-vikhrov.github.io/MySummary/Summary-ru.html
